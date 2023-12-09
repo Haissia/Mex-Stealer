@@ -3,14 +3,14 @@
 #
 
 <h1 align="center">
-  Malicord
+  MexStealer
 </h1>
 <p align="center">
-  Telegram server: https://t.me/+xM8hLV4lre81YjI8
+  Telegram server: https://t.me/MexStealer
  </p>
 <p align="center"> 
   <kbd>
-<img src="https://raw.githubusercontent.com/KSCH-58/sub/main/assets/malicord%20(3).jpeg" width="328"></img>
+<img src="https://media.discordapp.net/attachments/1182651314782601279/1182701062692536382/Untitled_Project.jpg?ex=6585a732&is=65733232&hm=d11ee89c3ab3236b329a917e089da3119968fe53ccdc0010286e51e0d1ec0b82&=&format=webp&width=520&height=260" width="328"></img>
   </kbd>
 </p>
 
